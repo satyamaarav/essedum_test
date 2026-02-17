@@ -1,5 +1,7 @@
 package com.example.zipupload.entity;
-
+/**
+* This is just to verify the changes
+*/
 import jakarta.persistence.*;
 
 @Entity
